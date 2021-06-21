@@ -1,9 +1,9 @@
-### Hello, I'm Swapnil - aka [chemo :)][website] 👋
+### Hello, I'm Swapnil  [chemo :)][website] 👋
 
 [![Website](https://img.shields.io/website?label=hellochemo.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hellochemo.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chemotharepy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chemotharepy)
 
-## I'm a Developer and Photographer!!
+## I'm a Developer and a Photographer!!
 
 - 🌱 I’m currently learning MERN
 - ⚡ Fun fact: I like to make and fly FPV drones
